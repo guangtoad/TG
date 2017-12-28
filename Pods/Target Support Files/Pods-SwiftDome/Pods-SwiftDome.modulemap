@@ -1,0 +1,6 @@
+framework module Pods_SwiftDome {
+  umbrella header "Pods-SwiftDome-umbrella.h"
+
+  export *
+  module * { export * }
+}

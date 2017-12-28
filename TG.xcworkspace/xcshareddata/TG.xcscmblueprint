@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c011dc6d-206e-4158-a306-8f034b0c4c8b++3132",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c011dc6d-206e-4158-a306-8f034b0c4c8b++3132" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c011dc6d-206e-4158-a306-8f034b0c4c8b++3132" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B58F9FEB-E56E-426F-B72D-EB013F47AE78",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c011dc6d-206e-4158-a306-8f034b0c4c8b++3132" : "smartGLink_17CY\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TG",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "smartGLink_cn\/Classes\/Controller\/TG.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/SQB_cheng%20@115.28.59.82\/dev_sfod",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c011dc6d-206e-4158-a306-8f034b0c4c8b++3132"
+    }
+  ]
+}

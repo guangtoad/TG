@@ -1,0 +1,6 @@
+framework module HTMLReader {
+  umbrella header "HTMLReader-framework-umbrella.h"
+
+  export *
+  module * { export * }
+}
